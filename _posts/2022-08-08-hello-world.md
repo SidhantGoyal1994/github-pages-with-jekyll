@@ -1,5 +1,5 @@
 ---
-title: "Effectiv brief"
+title: "Effectiv-brief"
 date: 2022-08-08
 ---
 
