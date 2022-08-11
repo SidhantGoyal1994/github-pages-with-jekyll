@@ -1,7 +1,7 @@
-title: "Sidhant's webste"
+title: "Sidhant's website"
 author: Sidhant Goyal
 email: sidmbbs@gmail.com
-theme: jekyll-theme-minimal
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
 
 # social links
